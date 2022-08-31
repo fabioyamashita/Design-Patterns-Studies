@@ -1,4 +1,4 @@
-# Example 1
+# Example 1 - Strategy Pattern
 
 Example from Macoratti's Udemy course
 
