@@ -19,3 +19,5 @@ Solution using the model as reference.
 ### Solution 2
 
 Solution using Macoratti's Solution from course.
+(Not ideal solution? PizzaFactory is not 100% correct according to OCP)
+
