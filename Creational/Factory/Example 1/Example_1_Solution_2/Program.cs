@@ -1,5 +1,6 @@
 ﻿// Not ideal solution?
 // PizzaFactory is not 100% correct according to OCP
+// It's called the Simple Factory by Head First Design Patterns - Chapter 4
 
 using System;
 
