@@ -21,3 +21,6 @@ Solution using the model as reference.
 Solution using Macoratti's Solution from course.
 (Not ideal solution? PizzaFactory is not 100% correct according to OCP)
 
+## Example 2
+
+Example from Head First Design Patterns - Chapter 4

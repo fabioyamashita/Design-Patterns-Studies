@@ -4,3 +4,4 @@ Compilation of Design Patterns examples from different websites, books and cours
 
 - [Refactoring Guru](https://refactoring.guru/)
 - [C# - Aplicando Princípios SOLID na prática - Macoratti .](https://www.udemy.com/course/c-aplicando-principios-solid-na-pratica/)
+- Head First Design Patterns: A Brain-Friendly Guide by Eric Freeman
